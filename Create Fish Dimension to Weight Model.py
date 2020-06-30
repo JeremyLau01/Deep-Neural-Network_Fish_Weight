@@ -49,7 +49,7 @@ model.compile(keras.optimizers.Adam(lr=0.1), loss='mean_squared_error')
 '''BATCH SIZE IS IMPORTANT - was getting values btwn -1 and 3 before specified batch size, now its better'''
 model.fit(X, Y, epochs=90, batch_size=32 ,callbacks=[keras.callbacks.EarlyStopping(patience=5)])
 
-### Testing model on df.head() b/c we know the true values and lets see how our model does
+### Testing model on first datapoint b/c we know the true values and lets see how our model does
 # generally you want to test model on new data
 test_data = np.array([23.2, 25.4, 30, 11.52, 4.02])
 # printing out the output when the test data is run through the model
