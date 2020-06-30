@@ -11,7 +11,7 @@ len_1, len_2, len_3, height, width = input(ask_for_vals).split()
 list_vals = [len_1, len_2, len_3, height, width]
 formatted_inputs = []
 for number in list_vals:
-    empty.append(float(number)*2.54) # change inches to cm (data from csv file in cm)
+    formatted_inputs.append(float(number)*2.54) # change inches to cm (data from csv file in cm)
 
 # Load old model
 old_model = keras.models.load_model('fish_dnn_model.h5')
