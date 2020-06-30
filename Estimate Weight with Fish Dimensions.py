@@ -4,7 +4,7 @@ import numpy as np
 # Ask user for inputs
 ask_for_vals ='''Make sure to have spaces in between each entry
 Enter the dimensions in inches of your fish for the following:
-    Length 1, Length 2, Length 3, Height, Width\n''' 
+    Vertical Length, Diagonal Length, Cross Length, Height, Diagonal Width\n''' 
 
 # Convert user inputs to list which will input into saved model from previous python script
 len_1, len_2, len_3, height, width = input(ask_for_vals).split()
