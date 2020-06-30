@@ -21,4 +21,4 @@ output_pred_pounds = output_pred_grams[0]*0.00220462 # change grams to pounds
 output_rounded = round(float(output_pred_pounds), 2) # round to two decimal places
 
 # Display estimated fish weight
-print("Your fish would likely weigh", output_rounded, "pounds\n")
+print("Your fish likely weighs", output_rounded, "pounds\n")
