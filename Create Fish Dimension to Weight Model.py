@@ -1,9 +1,8 @@
-'''Ctrl + D when in python shell to close it'''
 import keras
 import numpy as np
 import pandas as pd
 
-df = pd.read_csv(r'C:\Users\jerem\OneDrive\Documents\Projects\Programming\Python Projects\Neural Networks\Khanrad Learn Keras in One Video\My Tests\fish_data.csv')
+df = pd.read_csv('fish_data.csv')
 #use print(df.head()) to see first five values of dataset to see what data looks like
 
 ### Setting x and y values (x is all values except for sale price)
