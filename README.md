@@ -3,4 +3,4 @@ I created a deep neural network that will predict the weight of a fish in pounds
 
 My program will predict the weight of a fish based on its the vertical length, diagonal length, cross length, height, and diagonal width. The dataset is small so the accuracy of the prediction varies between models.
 
-Thanks to Khanrad (search Khanrad on YouTube) for helping me getting started on ML in Keras.
+Thanks to Khanrad (search Khanrad on YouTube) for helping me getting started on ML in Keras!
