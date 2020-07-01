@@ -6,7 +6,7 @@ My program will predict the weight of a fish based on its the vertical length, d
 
 View the data my neural network models <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Deep-Neural-Network_Fish_Weight/blob/master/fish_data.csv">here</a>
 
-View my code that creates and saves the neural network<a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Deep-Neural-Network_Fish_Weight/blob/master/Create%20Fish%20Dimension%20to%20Weight%20Model.py">here</a>
+View my code that creates, trains, tests, and saves the neural network <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Deep-Neural-Network_Fish_Weight/blob/master/Create%20Fish%20Dimension%20to%20Weight%20Model.py">here</a>
 
 
 I based my project off of KhanradCoder's Iowa Housing Prices project. You can view the project I referenced
