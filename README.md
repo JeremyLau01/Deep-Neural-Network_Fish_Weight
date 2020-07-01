@@ -12,3 +12,5 @@ View my code that allows people to input new fish dimensions to predict the weig
 I based my project off of KhanradCoder's Iowa Housing Prices project. You can view the project I referenced
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/KhanradCoder/LearnKeras/blob/master/2.DNNs/HousingPricesNN.ipynb">here</a>
 .
+
+<a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/welcome/">Check out my other projects!</a>
